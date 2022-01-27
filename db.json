@@ -8,7 +8,21 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cats": [
+    {
+      "id": 14,
+      "name": "Typo",
+      "url": "https://robohash.org/14.png?set=set4"
+    },
+    {
+      "id": 19,
+      "name": "Snowball",
+      "url": "https://robohash.org/19.png?set=set4"
+    },
+    {
+      "id": 4,
+      "name": "Pika",
+      "url": "https://robohash.org/4.png?set=set4"
+    }
+  ]
 }
