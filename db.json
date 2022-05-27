@@ -12,17 +12,17 @@
     {
       "id": 14,
       "name": "Typo",
-      "url": "https://robohash.org/14.png?set=set4"
+      "url": "https://raw.githubusercontent.com/wachunga/api/master/public/typo.jpg"
     },
     {
       "id": 19,
       "name": "Snowball",
-      "url": "https://robohash.org/19.png?set=set4"
+      "url": "https://raw.githubusercontent.com/wachunga/api/master/public/snowball.jpg"
     },
     {
       "id": 4,
       "name": "Pika",
-      "url": "https://robohash.org/4.png?set=set4"
+      "url": "https://raw.githubusercontent.com/wachunga/api/master/public/pika.jpg"
     }
   ]
 }
